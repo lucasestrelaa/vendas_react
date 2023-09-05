@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <div className="p-4 bg-blue-500">
-        <h1 className="text-4xl font-bold text-center">Teste</h1>
+        <h1 className="text-4xl font-bold text-center">Sistema Financeiro</h1>
       </div>
 
       <div className="text-center border">
